@@ -55,6 +55,7 @@ while value != None:
     i += 1
     value = sheettypes.Cells(i,1).value
 
+#Конец подготовки и начало работы меню программы.
 while True:
     try:
         try:
