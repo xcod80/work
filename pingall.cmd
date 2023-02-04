@@ -1,0 +1,10 @@
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 9
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 1
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 2
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 3
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 4
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 5
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 6
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 7
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 8
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 9

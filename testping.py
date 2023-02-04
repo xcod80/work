@@ -20,7 +20,7 @@ def PingAddr(comm):
             return True
     else:
         return False
-        
+
 #Пингуем выбранные устройства
 def PingDevices(DevType):
     i = 3
@@ -66,13 +66,17 @@ while True:
             print(f'99\t- выход')
             #Ждем ввод пользователя
             choice = int(input("Выберите пункт меню:"))
+        else:
+            if choice <= len(types):
+                print("\n", types[choice], "\n")
+                PingDevices(types[choice])
+            exit()
     except Exception:
         print()
     if choice < len(types):
-        break
+        print("\n", types[choice], "\n")
+        PingDevices(types[choice])
     elif choice == 99:
         exit()
 
-print("\n", types[choice], "\n")
-PingDevices(types[choice])
 
