@@ -1,5 +1,6 @@
 #Мои правки для игнора рабочих файлов.
 pingall.txt
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

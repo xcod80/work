@@ -1,4 +1,4 @@
-@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 9
+@py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 0
 @py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 1
 @py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 2
 @py testping.py "Z:\ORG\ET\ITISS\ВидеоАрхив\СВН ЗСМК\СВН ЗСМК Актуальный.xlsx" 3
